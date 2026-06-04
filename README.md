@@ -1,5 +1,6 @@
 # List Operations in Python: Sum of List Items
 
+
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
 
